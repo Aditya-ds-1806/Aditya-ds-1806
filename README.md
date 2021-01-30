@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://udemy-projects.000webhostapp.com/myWebsite/HTML/index.html](https://udemy-projects.000webhostapp.com/myWebsite/HTML/index.html)
+- 👨‍💻 All of my projects are available at [https://aditya-ds-1806.github.io](https://aditya-ds-1806.github.io)
 
 - 💬 Ask me about **Node.js, ExpressJS, MongoDB**
 
