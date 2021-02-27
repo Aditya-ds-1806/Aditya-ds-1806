@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya D.S.</h1>
 <h3 align="center">A passionate MEN stack developer from India</h3>
 
-- 🔭 I’m currently working on [Skribblrs.io](https://github.com/Aditya-ds-1806/Skribblrs.io)
+- 🔭 I’m currently working on [Skribblrs.io](https://github.com/JatinAgrawal94/Skribblrs.io)
 
 - 🌱 I’m currently learning **React**
 
